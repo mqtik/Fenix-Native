@@ -1,0 +1,6 @@
+module Pods_Fenix {
+  umbrella header "Pods-Fenix-umbrella.h"
+
+  export *
+  module * { export * }
+}
